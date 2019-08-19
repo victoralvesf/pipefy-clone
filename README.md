@@ -1,6 +1,9 @@
 # Interface para gerenciar tarefas
 Projeto para gerir tarefas usando React
 
+## Instalar as depêndencias
+npm install
+
 ## Criar server para development e hot-reload
 yarn start
 
