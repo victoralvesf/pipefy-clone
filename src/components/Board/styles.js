@@ -4,4 +4,7 @@ export const Container = styled.div`
   display: flex;
   padding: 30px 0;
   height: calc(100% - 80px);
+  & div {
+    border-left: 0.5px solid rgba(0,0,0,0.05);
+  }
 `;
