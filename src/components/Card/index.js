@@ -39,7 +39,6 @@ export default function Card({ data, index, listIndex }) {
       const draggedTop = draggedOffset.y - targetSize.top;
 
       if(draggedIndex < targetIndex && draggedTop < targetCenter){
-        console.log('teste')
         return;
       }
 
