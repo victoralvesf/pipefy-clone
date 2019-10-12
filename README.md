@@ -2,7 +2,7 @@
 Projeto para gerir tarefas usando React
 
 ## Instalar as depêndencias
-npm install
+yarn
 
 ## Criar server para development e hot-reload
 yarn start
